@@ -1,1 +1,1 @@
-import "./styles.css";
+include "./styles.css";
