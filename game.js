@@ -1,3 +1,4 @@
+// init game variable for future reference
 let game;
 
 // global game options
